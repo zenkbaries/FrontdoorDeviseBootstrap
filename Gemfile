@@ -45,4 +45,5 @@ group :development do
   gem 'spring'
 end
 
-gem bootstrap-sass
+gem 'bootstrap-sass'
+gem 'simple_form'
